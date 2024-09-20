@@ -1,7 +1,7 @@
 # Identification and Analysis of Fake Customer Reviews - An Empirical Study on Customer Reviews from Amazon (Master Thesis)
 
 
-This repository contains the code and data for the master thesis project aimed at identifying and analysing fake consumer reviews on Amazon. The project leverages advanced machine learning and deep learning techniques, including the use of the RoBERTa model, to develop a robust review detection algorithm. Also, this thesis majorly focus on understanding the 
+This repository contains the code and data for the master thesis project aimed at identifying and analysing fake consumer reviews on Amazon. The project leverages advanced machine learning and deep learning techniques, including the use of the RoBERTa model, to develop a robust review detection algorithm. 
 
 
 ## Project Overview
