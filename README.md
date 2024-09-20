@@ -90,6 +90,7 @@ source venv/bin/activate #macOS
 - SMOTE for Handling Class Imbalance
 - ExtraTrees Classifier
 - BeautifulSoup
+- SMOTE
 
 ## Contact
 For any questions or inquiries, please contact Afzal Sufiya at [afzal.sufiya@stud.th-deg.de](url).
