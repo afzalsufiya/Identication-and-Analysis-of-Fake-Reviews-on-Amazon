@@ -37,8 +37,7 @@ source venv/bin/activate
 
 4. **Install the required libraries**:
  ```sh
-venv\Scripts\activate #windows
-source venv/bin/activate #macOS
+pip install -r requirements.txt
 ```
 
 ## Usage
