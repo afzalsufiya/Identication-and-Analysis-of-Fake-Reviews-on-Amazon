@@ -72,6 +72,7 @@ pip install -r requirements.txt
 │   ├── ClassificationPatterns.ipynb
 ├── requirements.txt
 ├── README.md
+├── AfzalSufiya-ThesisReport.PDF
 ```
 ## Features
 
