@@ -70,9 +70,9 @@ pip install -r requirements.txt
 ├── ClassificationPatterns/
 │   ├── AmazonReviews-predicted.db
 │   ├── ClassificationPatterns.ipynb
+├── AfzalSufiya-ThesisReport.PDF
 ├── requirements.txt
 ├── README.md
-├── AfzalSufiya-ThesisReport.PDF
 ```
 ## Features
 
