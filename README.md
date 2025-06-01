@@ -91,6 +91,11 @@ pip install -r requirements.txt
 - BeautifulSoup
 - SMOTE
 
-## Contact
-For any questions or inquiries, please contact Afzal Sufiya at [afzal.sufiya@stud.th-deg.de](url).
+## Let's Connect
+
+If you're interested in data science or have any questions regarding this repo, feel free to connect or reach out!
+
+🔗 LinkedIn: [www.linkedin.com/in/asufiya](https://www.linkedin.com/in/asufiya)
+
+✉️ Email: [afzal.sufiya@outlook.com](afzal.sufiya@outlook.com)
 
