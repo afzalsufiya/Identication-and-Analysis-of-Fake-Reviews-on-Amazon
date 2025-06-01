@@ -67,7 +67,6 @@ pip install -r requirements.txt
 │   ├── AmazonReviews-predicted.db
 │   ├── DummyDataSet.csv
 │   ├── roberta-classification.ipynb
-│   ├──roberta-pretrained1.pt
 ├── ClassificationPatterns/
 │   ├── AmazonReviews-predicted.db
 │   ├── ClassificationPatterns.ipynb
